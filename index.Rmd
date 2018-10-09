@@ -99,7 +99,7 @@ I will start by reviewing the literature on morphological and semantic anticipat
 - Both adults and children use gender and case marking to make morphosyntactic predictions (Spanish, Dutch, German, French) (Dussias et al., 2013) (Lew-Williams & Fernald, 2007)
     - Eg. "Encuentra la galleta" (Find the-FEM cookie)
     
-- Case-marking is also used predictively by natives (Hopp, 2015; Mitsugi & MacWhinney, 2016)
+- Case-marking is also used predictively by natives (Mitsugi & MacWhinney, 2016)
 
 - These studies show that morphosyntax is important for expectation generation  of upcoming linguistic information.
 
@@ -110,9 +110,7 @@ I will start by reviewing the literature on morphological and semantic anticipat
 
 - ## Intermediate late learners:
 
-    - reduced or no integration of L2 discourse cues (Grüter et al., 2017), syntactic cues (Grüter & Rohde, 2013), and morphological cues (Foucart et al., 2016; Grüter et al., 2010; Hopp, 2015; Lew-Williams & Fernald, 2007) 
-    
-    - unless the two languages are typologically similar (Liburd, 2014; Dussias et al., 2013; Foucart et al., 2014).
+    - reduced or no integration of L2 discourse cues (Grüter et al., 2017), syntactic cues (Grüter & Rohde, 2013), and morphological cues (Foucart et al., 2016; Grüter et al., 2010; Hopp, 2015; Lew-Williams & Fernald, 2007), unless the two languages are typologically similar (Liburd, 2014; Dussias et al., 2013; Foucart et al., 2014).
     
 - ## Advanced late learners: 
 
@@ -178,7 +176,7 @@ Togato: When reading ambiguous sentences that could be interpreted with both low
 .pull-left[
 - is taught in simultaneous interpreting courses (Li, 2015)
 
-- releases cognitive load (Seeber et al, 2011)
+- releases cognitive load
 
 - has been studied in language pairs with asymmetrical syntactic structures (SVO/SOV) (Van Besien, 1999)
 
@@ -218,21 +216,43 @@ WM is the executive function component dedicated to storing and processing infor
 ---
 # Working memory
 
+
+.pull-left[
+
 ## Anticipation
 
 - WM mediates ability to anticipate in natives (Huettig & Janse, 2016)
-  - 'Kijk naar de afgebeelde piano' (Look at the-COM displayed piano)
+  - 'Kijk naar de afgebeelde piano' 
   
 - Although not always (Otten & Van Berkum, 2009)
-  - 'She picked up the-COM delicate yet striking necklace that had been selected by her stylist.' (translated from Dutch)
+  - 'She picked up the-COM delicate yet striking necklace that had been selected by her stylist.'
+  - More time was allowed to predict
 
-- Differences between studies: more time was allowed to predict?
+- It seems that L2ers as well (Ito, 2016) (although this was measure indirectly)
 
-- What happens with L2 learners?
+- What happens with prosodic cues?
 
-- What happens with WM and prosodic cues?
+]
 
+--
 
+.pull-right[
+
+## Interpreters
+
+- Some find that interpreters have better WM than non-interpreter bilinguals (review Dong & Cai, 2015)
+
+- Others don't 
+  - Different tasks, confusion between WM and phonological short-term memory, differences in population (students, amount of experience) and age
+
+- Our study will look at:
+  - WM differences between interpreters and non-interpreters
+  - WM as a mediating factor for anticipation
+]
+
+???
+
+In her dissertation Ito indirectly look at the role of WM in L2 prediction and she indicated that it is indeed a mediating factor. However, she did not collect any measures of WM
 
 ---
 class: inverse, center, middle
@@ -256,8 +276,8 @@ In this coming section, I will review the literature related to the prosodic cue
 .pull-left[
 
 ### English
-- Stress-timed (interval between two stressed syllables is the same)
-  - Unstressed vowels: reduction (usually to [ə]) 
+- Stress-timed 
+  - Unstressed vowels: reduction [ə] 
 - English natives use suprasegmental information for lexical access, but segmental information has a stronger role in lexical activation (Cooper et al., 2002).
 - Mandarin L2ers of English use only suprasegmental cues and Korean L2ers use both segmental and suprasegmental cues (Connell et al., 2018) 
 ]
@@ -267,7 +287,7 @@ In this coming section, I will review the literature related to the prosodic cue
 .pull-right[
 
 ### Spanish
-- Syllable-timed (duration of every syllable is the same)
+- Syllable-timed 
   - Stressed vowels: slightly longer
   - Spanish natives rely on F0, intensity and duration to identify stress
 - English L2 learners of Spanish have problems with stress production and perception (Face, 2006; Lord, 2007). 
@@ -293,9 +313,9 @@ Constrative means that it changes meaning: PApa vs. paPÁ, CONtent vs. conTENT
 
 - Contrastive intonation guides the initial syntactic analysis (for Japanese Nakamura et al., 2012)
 
-- English vowel duration preactivates upcoming morphology (active/pasive verbs) (Stromswold et al., 2002)
+- English owel duration preactivates upcoming morphology (active/pasive verbs) (Stromswold et al., 2002)
 
-- Swedish word-tones preactive upcoming morhphology (present/past, singular/plural) (Roll, Söderström & Horne, 2013)
+- Swedish word-tones preactive upcoming morhphology (present/past, singular/plural)
 ]
 
 --
@@ -304,11 +324,11 @@ Constrative means that it changes meaning: PApa vs. paPÁ, CONtent vs. conTENT
 
 ## L2
 
-- Advanced L2ers of English cannot use vowel duration for prediction (Rehrig, 2017)
+- Advanced L2ers cannot use vowel duration for prediction (Rehrig, 2017)
 
-- Advanced L2ers of Swedish can use word tones for prediction (Schremm et al., 2016)
+- Advanced L2ers can use word tones for prediction (Schremm et al., 2016)
 
-- Beginning L2ers of Swedish cannot use word tones (Gosselke Berthelse et al, 2018)
+- Beginning L2ers cannot use word tones (Gosselke Berthelse et al, 2018)
 
 - It is possible to explicitly train morphological prediction based on word-tones (at beginner level) (Schremm et al., 2017)
 
@@ -324,7 +344,7 @@ class: inverse, center, middle
 
 # Research questions
 
-### 1. Do Spanish monolinguals, non-interpreter bilinguals and interpreters use lexical stress to anticipate morphology? If yes, does syllabic structure (CV, CVC) influence their anticipatory abilities? 
+### 1. Do Spanish monolinguals, non-interpreter bilinguals and interpreters use lexical stress to anticipate morphology information? If yes, does syllabic structure (CV, CVC) influence their anticipatory abilities? 
 
 ### 2. Does interpreting experience train anticipatory processing?
 
@@ -339,14 +359,8 @@ class: inverse, center, middle
 ## Participants
 
 - Monolinguals (n = 25)
-    - Born and raised in a monolingual region of Spain
 - Non-interpreter bilinguals (n = 26)
-    - L1 English
-    - Advanced L2 Spanish (post-puberty acquisition)
 - Interpreter bilinguals (n = 12)
-    - L1 English
-    - Advanced L2 Spanish (post-puberty acquisition)
-    - Professional training and experience with intepreting
 
 ]
 
@@ -373,23 +387,7 @@ background-position: 60% 50%
 After calibration, the participant saw a fixation cross for 250ms, followed by 1000ms of the two possible words (as it is standard in visual world paradigm experiments), and then they listened to a sentence containing one of the two words.
 
 ---
-# Eye-tracking task: lexical stress to anticipate morphology
 
-- 66 sentences total
-- 18 practices + 32 fillers
-- 16 pairs of sentences
-  - 8 paroxytone (present verbs)
-  - 8 oxytone (past verbs)
-  - 7 CVC and 9 CV (first syllable of the verb)
-
-- 5 words long
-
-- Semantically viable (for both conditions)
-
-<ru-blockquote>La mujer llena la jarra. (The woman fills the jar) <br/>
-La mujer llenó la jarra. (The woman filled the jar) </ru-blockquote>
-
----
 # Working memory
 
 ### Letter-number sequencing
@@ -439,6 +437,22 @@ Correct answer: 37AC
 
 ---
 
+# Eye-tracking task: lexical stress to anticipate morphology
+
+- 16 pairs of sentences
+  - 8 paroxytone (present verbs)
+  - 8 oxytone (past verbs)
+  - 7 CVC and 9 CV (first syllable of the verb)
+
+- 5 words long
+
+- Semantically viable (for both conditions)
+
+<ru-blockquote>La mujer llena la jarra. (The woman fills the jar) <br/>
+La mujer llenó la jarra. (The woman filled the jar) </ru-blockquote>
+
+---
+
 # Statistical Analyses
 
 ### Three analyses
@@ -481,8 +495,20 @@ class: inverse, center, middle
 
 ---
 
+# 1. Does complex processing train anticipation?
 
-# 1. Can they predict?
+- YES, interpreters perform closer to monolinguals.
+
+- Non-interpreters (LA): Only anticipate when more time and phonological information are present
+
+- All fixate more on targets in CVC (firma-firmó) than CV (lava-lavó)
+
+- Monolinguals and interpreters fixate on targets more than non-interpreters = INTERPRETER ADVANTAGE
+
+
+---
+
+# 2. When do they predict?
 
 - Monolinguals & interpreters fixate on targets earlier than non-interpreters = INTERPRETER ADVANTAGE.
 
@@ -490,32 +516,24 @@ class: inverse, center, middle
 
     - CV: Interpreters initially fixate less, but at a faster rate than natives (they get to the same point by target offset)
     - CVC: interpreters = monolinguals
-    
-- All fixate more on targets in CVC (firma-firmó) than CV (lava-lavó)
 
-# 2. Does WM mediate anticipation?
+# 3. Does WM mediate anticipation?
 
 - Our data doesn't support WM as a mediating factor of anticipation
-
----
-
-# 3. Does complex processing train anticipation?
-
-- YES, interpreters perform closer to monolinguals.
-
-- Monolinguals and interpreters fixate on targets more than non-interpreters = INTERPRETER ADVANTAGE
-
 
 
 ---
 
 # Conclusions
 
-1. Our findings support models advocating that it is possible to train anticipatory processing (Schremm, et al., 2017), not only explicetly, but also through complex processing.
+1. Our findings support models advocating that it is possible to train anticipatory processing (Schremm, et al., 2017).
 
 2. Qualitatively (can they do it?): it is possible to learn L2 anticipatory patterns (non-interpreters) post-puberty, and “practice makes you better” (interpreters).
 
 3. Quantitatively (how early they predict?): the monolinguals are the winners.
+
+
+
 
 
 ---
@@ -561,94 +579,6 @@ background-position: 90% 20%
 .footnote[
 [1] Template slides created by Joseph Casillas, using Xaringan (R package).
 ]
-
----
-
-background-image: url(./img/stressBinPlots.png)
-background-size: 600pt
-
----
-
-
-# References
-
-Bajo, T., Padilla, F., & Padilla, P. (2000). Comprehension processes in simultaneous interpreting. In Translation in Context.
- 
-Connell, K., Hüls, S., Matínez-García, M. T., Qin, Z., Shin, S., Yan, H., & Tremblay, A. (2018). English Learners ’ Use of Segmental and Suprasegmental Cues to Stress in Lexical Access : An Eye-Tracking Study, (April), 1–34. 
- 
-Cooper, N., Cutler, A., & Wales, R. (2002). Constraints of Lexical Stress on Lexical A ccess in English : Evidence from Native and Non-native Listeners *. Language and Speech, 45(3), 207–228.
- 
-Dong, Y., & Cai, R. (2015). 4 Working Memory and Interpreting : A Commentary on Theoretical Models. In Working Memory in Second Language Acquisition and Processing (pp. 63–82).
- 
-Dussias, P. E., Valdés Kroff, J. R., Guzzardo Tamargo, R. E., & Gerfen, C. (2013). When Gender and Looking Go Hand in Hand. Studies in Second Language Acquisition, 35(02), 353–387. 
- 
-Face, T. L. (2006). Cognitive factors in the perception of Spanish stress placement: Implications for a model of speech perception. Linguistics, 44(6), 1237–1267. 
- 
-Foucart, A., Martin, C. D., Moreno, E. M., & Costa, A. (2014). Can bilinguals see it coming? Word anticipation in L2 sentence reading. Journal of Experimental Psychology: Learning, Memory, and Cognition, 40(5), 1461–1469. 
-
----
-
-Foucart, A., Ruiz-Tada, E., & Costa, A. (2016). Anticipation processes in L2 speech comprehension: Evidence from ERPs and lexical recognition task. Bilingualism: Language and Cognition, 19(01), 213–219. 
- 
-Gile, D. (2009). Basic Concepts and Models for Interpreter and Translator Training. John Benjamins.
- 
-Gosselke Berthelsen, S., Horne, M., Brännström, K. J., Shtyrov, Y., & Roll, M. (2018). Neural processing of morphosyntactic tonal cues in second-language learners. Journal of Neurolinguistics, 45, 60–78. 
- 
-Grüter, T., & Rohde, H. (2013). L2 processing is affected by RAGE: Evidence from reference resolution. 12th Conference on Generative Approaches to Second Language Acquisition (GASLA), University of Florida, FL., 2–3.
- 
-Hopp, H. (2015). Semantics and morphosyntax in predictive L2 sentence processing. IRAL Int Rev Appl Linguist Lang Teach, 53(3), 277–306. 
- 
-Huettig, F., & Janse, E. (2016). Individual differences in working memory and processing speed predict anticipatory spoken language processing in the visual world. Language, Cognition and Neuroscience, 31(1), 80–93. 
- 
-Kamide, Y. (2008). Anticipatory Processes in Sentence Processing. Linguistics and Language Compass, 2(4), 647–670. 
-
-Lew-Williams, C., & Fernald, A. (2007). Young Children Learning Spanish Make Rapid Use of Grammatical Gender in Spoken Word Recognition. Psychological Science, 18(3), 193–198.
-
----
- 
-Li, X. (2015). Putting interpreting strategies in their place Justifications for teaching strategies in interpreter training *, 2(15), 170–192. 
- 
-Liburd, T. (2014). Investigating prediction in L2 morpho-syntax: A visual world study. University of Pittsburg.
- 
-Liontou, K. (2012). Anticipation in German to Greek Simultaneous Interpreting : A corpus-based Approach.
- 
-Lord, G. (2007). The role of lexicon in learning second language stress patterns. Applied Language Learning, 17(1–2), 1–14.
- 
-Martin, C. D., Thierry, G., Kuipers, J. R., Boutonnet, B., Foucart, A., & Costa, A. (2013). Bilinguals reading in their second language do not predict upcoming words as native readers do. Journal of Memory and Language, 69(4), 574–588. 
- 
-Marull, C. (2017). Second Language Processing Efficiency : Experience and Cognitive Effects on L2 Morphosyntactic Integration and Anticipation. In Proceedings of the 41st annual Boston University Conference on Language Development (pp. 466–480).
- 
-Mitsugi, S., & MacWhinney, B. (2016). The use of case marking for predictive processing in second language Japanese. Bilingualism: Language and Cognition, 19(1), 19–35.
- 
-Moser-Mercer, B. (1978). Simultaneous Interpretation: A Hypothetical Model and its Practical Application. In Language interpretation and communication (pp. 353–368).
-
----
-
-Nakamura, C., Arai, M., & Mazuka, R. (2012). Immediate use of prosody and context in predicting a syntactic structure. Cognition, 125(2), 317–323. 
- 
-Nieuwland, M. S., Politze-Ahles, S., Heyselaar, E., Segaer, K., Bartolozzi, F., Kogan, V., … Huettig, F. (2018). Large-scale replication study reveals a limit on probabilistic prediction in language. ELIFE, (5030732).
- 
-Otten, M., & Van Berkum, J. J. A. (2009). Does working memory capacity affect the ability to predict upcoming words in discourse? Brain Research, 1291, 92–101.
- 
-Rehrig, G. L. (2017). Acoustic Correlates of Syntax in Sentence Production and Comprehension. Rutgers University.
- 
-Roll, M., Söderström, P., & Horne, M. (2013). Word-stem tones cue suffixes in the brain. Brain Research, 1520, 116–120. 
- 
-Schremm, A., Hed, A., Horne, M., & Roll, M. (2017). Training predictive L2 processing with a digital game : Prototype promotes acquisition of anticipatory use of tone-suffix associations. Computers & Education, 114, 206–221. 
- 
-Schremm, A., Söderström, P., Horne, M., & Roll, M. (2016). Implicit acquisition of tone-suffix connections in L2 learners of Swedish. The Mental Lexicon, 11(1), 55–75. 
- 
-Seeber, K. G., & Kerzel, D. (2011). Cognitive load in simultaneous interpreting: Model meets data. International Journal of Bilingualism, 16(2), 228–242. 
- 
----
-
-Soto-faraco, S., Sebastián-gallés, N., & Cutler, A. (2001). Segmental and Suprasegmental Mismatch in Lexical Access. Journal of Memory and Language, 45, 412–432.
- 
-Stromswold, K., Eisenband, J., Norland, E., & Ratzan, J. (2002). Tracking the acquisition and processing of English passives: Using acoustic cues to disambiguate actives and passives. In The 16th Annual CUNY Conference on Human Sentence Processing. Cambridge, MA.
- 
-Togato, G., Paredes, N., Macizo, P., & Bajo, T. (2015). Syntactic Processing in Professional Interpreters : Understanding Ambiguous Sentences in Reading and Translation, 1–19. 
- 
-Yudes, C., Mazizo, P., Morales, L., & Bajo, M. T. (2013). Comprehension and error monitoring in simultaneous interpreters. Applied Psycholinguistics, 34(05), 1039–1057. 
 
 
 
